@@ -53,5 +53,16 @@
 __history/
 *.~*
 
+# Delphi build directories
+Android/
+Win32/
+Win64/
+OSX32/
+OSX64/
+
 # Castalia statistics file
 *.stat
+
+# Backup directories and files
+*backup
+*backup/
